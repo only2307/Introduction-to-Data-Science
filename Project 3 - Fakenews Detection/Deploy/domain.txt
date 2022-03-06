@@ -1,0 +1,11 @@
+arrDomain=['binhluan.biz', 'www.ipick.vn', 'tintucqpvn.net',
+       'www.gioitreviet.net', 'giadinhtiepthi.com',
+       'suckhoe.vnexpress.net', 'phapluat.news', 'autoxe.net',
+       'thegioitre.vn', 'baoangiang.com.vn', 'thoibao.today',
+       'haiduong.tintuc.vn', 'laodong.vn', 'sorry.vn', 'thoibao.de',
+       'baonuocmy.com', 'tinvn.info', 'www.vietgiaitri.com/',
+       'https://news.zing.vn', 'news.zing.vn', 'thanhnien.vn',
+       'vnexpress.net', 'giaitri.vnexpress.net', 'thethao.tuoitre.vn',
+       'tuoitre.vn', 'kinhdoanh.vnexpress.net', 'dulich.vnexpress.net',
+       'sohoa.vnexpress.net', 'doisong.vnexpress.net', 'dantri.com.vn']
+  
